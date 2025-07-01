@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ApkCalculaSerie</string>
+    <string name= "insira_numero">Insira um número</string>
+    <string name= "calcula">Calcular</string>
+    <string name= "resultado">Resultado</string>
+    <string name= "aviso">O número deve estar entre 0 e 20.</string>
+    <string name= "soma">A soma da série é:</string>
+</resources>
